@@ -1,16 +1,15 @@
-# Hello, I'm [Your Name]
+# Hello, I'm Musab Hassan
 
-Brief tagline about yourself.
+Brief tagline about myself.
 
-![Profile Picture](profile_picture.jpg) <!-- Insert a professional photo of yourself -->
 
-I'm a passionate [Your Profession] with expertise in [Your Skills]. I love [Your Interests/Hobbies].
+I'm a passionate Full Stack Developer with expertise in MREN. I love Traveling.
 
-- 🔭 I’m currently working on [Current Project/Goal]
-- 🌱 I’m currently learning [Technologies/Topics]
+- 🔭 I’m currently Student looking for an Opportunity
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on [Types of Projects]
-- 💬 Ask me about [Specific Knowledge/Area]
-- 📫 How to reach me: [Your Email or Social Media Links]
+- 💬 Ask me about MERN
+- 📫 How to reach me: musabhassan1999@gmail.com
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Interesting Fact about Yourself]
 
