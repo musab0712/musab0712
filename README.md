@@ -2,14 +2,12 @@
 
 I'm a passionate Full Stack Developer with expertise in MREN stack and I love Traveling.
 
-- 🔭 I’m currently Student looking for an Opportunity
+- 🔭 I’m currently Computer Science Student
 - 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on [Types of Projects]
-- 💬 Ask me about MERN
+- 👯 I’m looking for an Opportunity
+- 💬 Ask me about MERN Stack
 - 📫 How to reach me: musabhassan1999@gmail.com
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact about Yourself]
-
+  
 ## Skills
 
 - javaScript
