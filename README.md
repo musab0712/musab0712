@@ -24,11 +24,11 @@ I'm a passionate Full Stack Developer with expertise in MREN stack and I love Tr
 
 ## Projects
 
-1. [Threads Clone]([link](https://threads-musab.vercel.app/))
+1. [Threads Clone]([link ](https://threads-musab.vercel.app/))
    - Brief description
    - Technologies used
 
-2. [IT Connect India]([link](https://itconnectindia.com/))
+2. [IT Connect India]([link ](https://itconnectindia.com/))
    - Brief description
    - Technologies used
 
