@@ -25,6 +25,7 @@ I'm a passionate Full Stack Developer with expertise in MREN stack and I love Tr
 ## Projects
 
 1. [Threads Clone]([link ](https://threads-musab.vercel.app/))
+   
    - Designed and developed a clean and modern web app using Next.js framework
    - Configured authentication using Clerk
    - Integrated MongoDB as the database with Mongoose
@@ -32,9 +33,8 @@ I'm a passionate Full Stack Developer with expertise in MREN stack and I love Tr
    - Utilized responsive design to ensure compatibility across all devices
    - Deployed on Vercel via GitHub Actions
 
-3. [IT Connect India]([link ](https://itconnectindia.com/))
+2. [IT Connect India]([link ](https://itconnectindia.com/))
    
-   - IT Connect IndiaIT Connect India
    - A website to facilitate communication between IT service providers and clients
    - Developed IT Connect India, Web Application with HTML, CSS, JavaScript, and Next.js framework.
    - Designed the website to be highly responsive and user-friendly, incorporating a contact form to facilitate communication.
