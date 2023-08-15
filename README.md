@@ -1,9 +1,6 @@
 # Hello, I'm Musab Hassan
 
-Brief tagline about myself.
-
-
-I'm a passionate Full Stack Developer with expertise in MREN. I love Traveling.
+I'm a passionate Full Stack Developer with expertise in MREN stack and I love Traveling.
 
 - 🔭 I’m currently Student looking for an Opportunity
 - 🌱 I’m currently learning Next.js
@@ -15,24 +12,28 @@ I'm a passionate Full Stack Developer with expertise in MREN. I love Traveling.
 
 ## Skills
 
-- Skill 1: Description or proficiency level
-- Skill 2: Description or proficiency level
-- ...
+- javaScript
+- Node.js
+- Express.js
+- React.js
+- Next.js
+- MongoDB
+- SQL
+- JAVA
+- C/C++
 
 ## Projects
 
-List some of your notable projects or contributions. You can add links to the repositories or hosted projects.
-
-1. [Project Name 1](Link)
+1. [Threads Clone]([Link](https://threads-musab.vercel.app/))
    - Brief description
    - Technologies used
 
-2. [Project Name 2](Link)
+2. [IT Connect India]([Link](https://itconnectindia.com/))
    - Brief description
    - Technologies used
 
 ## Connect with Me
 
-[LinkedIn](LinkedIn Profile URL) | [Twitter](Twitter Profile URL) | [Personal Website](Your Website URL)
+[LinkedIn]([Link](https://www.linkedin.com/in/musab0712/)) | [Twitter]([Twitter Profile URL](https://twitter.com/musab0712))
 
 Feel free to connect with me on LinkedIn or follow me on Twitter to stay updated with my latest projects and thoughts.
