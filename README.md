@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/musab0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musab0712" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/musab0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musab0712" height="30" width="40" /></a>
-<a href="https://instagram.com/musab0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musab0712" height="30" width="40" /></a>
+<a href="https://instagram.com/musabhassan0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musabhassan0712" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/musab_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="musab_hassan" height="30" width="40" /></a>
 </p>
 
