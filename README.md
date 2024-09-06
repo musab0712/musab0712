@@ -40,7 +40,16 @@
    - Utilized responsive design to ensure compatibility across all devices
    - Deployed on Vercel via GitHub Actions
 
-2. [IT Connect India]([link ](https://itconnectindia.com/))
+2. [LeadzZen]([link ](https://itconnectindia.vercel.app/))
+   
+   - LeadzZen web to facilitate a B2B Lead Generation Agency with over 10+ clients that works on complete performance.
+   - Developed the Leadzzen web application using cutting-edge technologies including Next.js, TypeScript, Tailwind CSS, and Framer Motion.
+   - Designed the website to be highly responsive and user-friendly, incorporating a contact form to facilitate communication.
+   - The application is designed to deliver a seamless, visually engaging, and high-performance user experience.
+   - My role involved end-to-end development, focusing on responsiveness, and modern design principles.
+   - Deployed on Vercel via GitHub Actions
+
+3. [IT Connect India]([link ](https://itconnectindia.vercel.app/))
    
    - A website to facilitate communication between IT service providers and clients
    - Developed IT Connect India, Web Application with HTML, CSS, JavaScript, and Next.js framework.
