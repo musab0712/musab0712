@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musab0712&label=Profile%20views&color=0e75b6&style=flat" alt="musab0712" /> </p>
 
-- 🔭 I’m currently working at **Digital Sketch and Technology as a Web Developer**
+- 🔭 I’m currently working at **Digital Sketch and Technology as a Full Stack Developer**
 
 - 🌱 I’m currently learning **Next.js**
 
