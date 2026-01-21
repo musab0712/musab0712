@@ -50,6 +50,7 @@ I build scalable web applications, CMS platforms, admin dashboards and modern bu
 **MERN CMS Platform with Membership System**  
 
 🔧 Tech Stack: React, Node.js, Express, MongoDB  
+
 ✨ Features:
 - User authentication & role management  
 - Membership management system  
@@ -147,9 +148,7 @@ I build scalable web applications, CMS platforms, admin dashboards and modern bu
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musab0712&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -159,11 +158,11 @@ I build scalable web applications, CMS platforms, admin dashboards and modern bu
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/musab0712">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/musab0712">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 
