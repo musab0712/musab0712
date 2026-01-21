@@ -1,58 +1,178 @@
 <h1 align="center">Hi 👋, I'm Musab Hassan</h1>
-<h3 align="center">A passionate full stack developer from India and I love Traveling.</h3>
+<h3 align="center">Full Stack MERN Developer | 2+ Years Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musab0712&label=Profile%20views&color=0e75b6&style=flat" alt="musab0712" /> </p>
-
-- 🔭 I’m currently working at **Digital Sketch and Technology as a Full Stack Developer**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking for an **Opportunity**
-
-- 💬 Ask me about **javaScript, react, express**
-
-- 📫 How to reach me **musabhassan1999@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/musab0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musab0712" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/musab0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musab0712" height="30" width="40" /></a>
-<a href="https://instagram.com/musabhassan0712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="musabhassan0712" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/musab_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="musab_hassan" height="30" width="40" /></a>
+<p align="center">
+I build scalable web applications, CMS platforms, admin dashboards and modern business websites using MERN stack technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+🌐 Portfolio: <a href="https://techmusab.in">techmusab.in</a> |
+📧 Email: info@techmusab.in |
+📱 WhatsApp: +91 8235822089
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musab0712&show_icons=true&locale=en&layout=compact" alt="musab0712" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musab0712&" alt="musab0712" /></p>
+## 🚀 About Me
 
+- 💻 Full Stack MERN Developer with **2+ years of professional experience**
+- 🔭 Currently working on **CMS platforms and business web applications**
+- ⚡ Passionate about **performance optimization & clean UI**
+- 🌍 Available for **Freelance & Remote Projects**
+- 📈 Focused on **scalable architecture and SEO-friendly development**
 
-## Projects
+---
 
-1. [Threads Clone]([link ](https://threads-musab.vercel.app/))
-   
-   - Designed and developed a clean and modern web app using Next.js framework
-   - Configured authentication using Clerk
-   - Integrated MongoDB as the database with Mongoose
-   - Optimized website for user experience
-   - Utilized responsive design to ensure compatibility across all devices
-   - Deployed on Vercel via GitHub Actions
+## 🛠 Tech Stack
 
-2. [LeadzZen]([link ](https://itconnectindia.vercel.app/))
-   
-   - LeadzZen web to facilitate a B2B Lead Generation Agency with over 10+ clients that works on complete performance.
-   - Developed the Leadzzen web application using cutting-edge technologies including Next.js, TypeScript, Tailwind CSS, and Framer Motion.
-   - Designed the website to be highly responsive and user-friendly, incorporating a contact form to facilitate communication.
-   - The application is designed to deliver a seamless, visually engaging, and high-performance user experience.
-   - My role involved end-to-end development, focusing on responsiveness, and modern design principles.
-   - Deployed on Vercel via GitHub Actions
+<p align="center">
 
-3. [IT Connect India]([link ](https://itconnectindia.vercel.app/))
-   
-   - A website to facilitate communication between IT service providers and clients
-   - Developed IT Connect India, Web Application with HTML, CSS, JavaScript, and Next.js framework.
-   - Designed the website to be highly responsive and user-friendly, incorporating a contact form to facilitate communication.
-   - Utilized MongoDB as the database to store user information.
-   - Deployed on Vercel via GitHub Actions
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,tailwind,js,html,css,git,github" />
+
+</p>
+
+---
+
+## 💼 Services I Offer
+
+- ✅ MERN Stack Web Development  
+- ✅ CMS & Admin Dashboard Development  
+- ✅ Business Website Development  
+- ✅ API Integration  
+- ✅ Payment Gateway Integration  
+- ✅ SEO Optimized Websites  
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 Socionomy Foundation  
+**MERN CMS Platform with Membership System**  
+
+🔧 Tech Stack: React, Node.js, Express, MongoDB  
+✨ Features:
+- User authentication & role management  
+- Membership management system  
+- Admin dashboard  
+- Secure payment integration  
+- Responsive UI  
+
+🌐 Live Website:  
+👉 https://socionomyfoundation.com  
+
+---
+
+### 🔹 Habibul Ummat  
+**Multilingual CMS Platform (English/Urdu)**  
+
+🔧 Tech Stack: Next.js, MongoDB, Tailwind CSS, Cloudinary  
+
+✨ Features:
+- English & Urdu multilingual support  
+- Rich text editor  
+- Books & PDF management  
+- Media gallery & video management  
+- SEO optimized structure  
+
+🌐 Live Website:  
+👉 https://www.habibulummat.com/en 
+
+---
+
+### 🔹 Inzovia  
+**Corporate Business Website**  
+
+ 🔧 Tech Stack: Next.js, Tailwind CSS  
+
+✨ Features:
+- Professional UI/UX  
+- Responsive design  
+- Fast loading performance  
+- SEO optimized pages  
+
+🌐 Live Website:  
+👉 https://www.inzovia.com  
+
+---
+
+### 🔹 SecureTax  
+**Financial Services Platform (India Region)**  
+
+ 🔧 Tech Stack: Next.js, Tailwind CSS  
+
+✨ Features:
+- Region-based dynamic routing  
+- Service-based navigation  
+- Lead capture forms  
+- SEO optimized business content  
+
+🌐 Live Website:  
+👉 https://www.securetax.co.in/india 
+
+---
+
+### 🔹 Aayush Enterprises  
+**Business Services Website**  
+
+🔧 Tech Stack: Next.js, Tailwind CSS  
+
+✨ Features:
+- Service presentation layout  
+- Professional branding  
+- Mobile responsive UI  
+- Contact form integration  
+
+🌐 Live Website:  
+👉 https://www.aayushent.in  
+
+---
+
+### 🔹 IoT AutoHub  
+**IoT Technology Platform**  
+
+ 🔧 Tech Stack: Next.js, Tailwind CSS  
+
+✨ Features:
+- Technology focused UI design  
+- Product showcase  
+- SEO optimized structure  
+- Performance optimized layout  
+
+🌐 Live Website:  
+👉 https://iotautohub.com  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:info@techmusab.in">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+⭐ If you like my work, feel free to follow and star my repositories!
